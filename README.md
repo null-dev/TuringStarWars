@@ -12,4 +12,4 @@ Many thanks to Simon for creating the original ASCIIMATION!
 Turing is not a fast language so the animation may lag on some slower computers, I'm sure it could be optimized however.
 
 ## Film State
-The film is up to date as of <b>January 2015.</b> If the Simon adds new scenes to ASCIMATION you are welcome to post and issue and I will extract the film again. (You are also welcome to do this in a pull request).
+The film is up to date as of <b>January 2015.</b> If the Simon adds new scenes to ASCIMATION you are welcome to post an issue and I will extract the film again. (You are also welcome to do this in a pull request).
